@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Riwi<br><br>🌱 I’m currently learning C#,MongoDB<br><br>👯 I’m looking to collaborate on everything they propose to me<br><br>🤝 I’m looking for help with any<br><br>👨‍💻 All of my projects are available at https://patoeldestripador.github.io/RiwiPortafolio/<br><br>💬 Ask me about JavaScript,TypeScript,NodeJS,postgreSQL<br><br>📫 How to reach me patoasesino69@gmail.com<br><br>⚡ Fun fact Mi misión : programar y desafíar el desarrollo con un humor oscuro pero ingenioso. ¡Acompaña a "Pato el Destripador" en sus hazañas de programación.
+🔭 I’m currently working on Riwi<br><br>🌱 I’m currently learning C#,MongoDB<br><br>👯 I’m looking to collaborate on everything they propose to me<br><br>🤝 I’m looking for help with any<br><br>👨‍💻 All of my projects are available at https://patoeldestripador.github.io/RiwiPortafolio/<br><br>💬 Ask me about JavaScript,TypeScript,NodeJS,postgreSQL<br><br>📫 How to reach me patoasesino69@gmail.com<br><br>⚡ Fun fact My mission : program and challenge development with dark but witty humor. Join "Duck the Ripper" in his programming exploits.
 
 
 ## 🌐 Socials:
